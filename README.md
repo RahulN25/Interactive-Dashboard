@@ -1,54 +1,34 @@
-# Medsplzz
-**http://medsplzz.rf.gd/**
+# Interactive Dashboard for Data Visualization and Prediction 
 
-**Medsplzz is an Informative website which provides you with detailed and accurate knowledge about the Medicines and Diseases.**
+**Interactive dashboard merging advanced data visualization and predictive analytics. It will provide users with intuitive visualization to explore complex datasets, unlock hidden insights, identify trends, and make predictions easily. The goal is to revolutionize data interaction, encouraging exploration and discovery in predictive analytics.**
 
-Medicines
-We divided the medicines in three sections such as Allopathy, Homeopathy
-and Ayurvedic.
-In each section we explained and gave detailed information about the
-medicines for Common illness, diabetes, blood pressure and heart diseases
+**The proposed system aims to automate the analysis of Superstore sales data, providing stakeholders with real-time insights into sales performance, trends, and forecasts. The system will be designed to meet objectives such as improving decision-making, identifying sales opportunities, and optimizing business processes. It will include features such as dynamic data filtering, interactive visualizations, and predictive analytics capabilities.**
 
-### Diseases Classified into 4 types as
-1) Infectious Diseases
-2) Deficiency Diseases
-3) Genetic Diseases
-4) Psychological Disorders
+>Category Wise and Region Wise Sales
 
-### Each Diseases page contains
-- Sypmtoms
-- Causes
-- Prevention
-- Diagnosis
-- Treatment
+![This is an image](/Outputs/CategoryAndRegion.png)
 
-There are various pages as some of them are - 
-
->Homepage
-
-![This is an image](/screenshots/homepage.png)
-
->Allopathy Medicines Page
+>Times Series Analysis
 
 
-![This is an image](/screenshots/allopathy.png)
+![This is an image](/Outputs/TimeSeries.png)
 
 
->Genetic Diseases Page
+>Hierarchical view of Sales using TreeMap
 
-![This is an image](/screenshots/genetic-diseases.png)
-
-
-- Registration Page
-
-![This is an image](/screenshots/registration.png)
+![This is an image](/Outputs/Hierarchical.png)
 
 
->Login Page 
+>Segment Wise and Category Wise Sales
 
-![This is an image](/screenshots/login.png)
+![This is an image](/Outputs/SegmentWiseAndCategoryWise.png)
 
 
->Contact Us Section
+>Month wise Sub-Category Sales Summary
 
-![This is an image](/screenshots/contact.png)
+![This is an image](/Outputs/Summary.png)
+
+
+>Sales Prediction Using Random Forest
+
+![This is an image](/Outputs/Prediction.png)
